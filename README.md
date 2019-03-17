@@ -80,7 +80,7 @@ css
 4. 新建 Pull Request
 
 
-### 码云特技
+### 我的相关
 
 1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2. 我的码云：[https://gitee.com/saqqdy](https://gitee.com/saqqdy)
